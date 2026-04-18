@@ -1,0 +1,129 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "role": "admin",
+      "name": "Admin One",
+      "email": "admin@coursehub.com",
+      "password": "admin123"
+    },
+    {
+      "id": "2",
+      "role": "user",
+      "name": "Anupam",
+      "email": "anupam@gmail.com",
+      "password": "user123"
+    },
+    {
+      "id": "247d2c6e-5204-486b-9824-b02c27f22805",
+      "username": "Anupam",
+      "email": "example@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "role": "user"
+    }
+  ],
+  "courses": [
+    {
+      "id": "101",
+      "title": "React for Beginners",
+      "description": "Learn the fundamentals of React, components, props, and hooks.",
+      "instructor": "John Doe",
+      "duration": "6 weeks",
+      "price": 1999,
+      "category": "Frontend",
+      "image": "https://via.placeholder.com/300x180?text=React+Beginners"
+    },
+    {
+      "id": "102",
+      "title": "Advanced JavaScript",
+      "description": "Deep dive into closures, async JS, promises, and ES6+ features.",
+      "instructor": "Jane Smith",
+      "duration": "5 weeks",
+      "price": 1499,
+      "category": "Programming",
+      "image": "https://via.placeholder.com/300x180?text=Advanced+JS"
+    },
+    {
+      "id": "103",
+      "title": "Java & OOP Mastery",
+      "description": "Understand Java fundamentals, OOP concepts, and collections.",
+      "instructor": "Rahul Kumar",
+      "duration": "8 weeks",
+      "price": 2499,
+      "category": "Backend",
+      "image": "https://via.placeholder.com/300x180?text=Java+OOP"
+    },
+    {
+      "id": "104",
+      "title": "Full Stack Web Development",
+      "description": "Build real-world applications using React, Node, and databases.",
+      "instructor": "Emily Carter",
+      "duration": "10 weeks",
+      "price": 3999,
+      "category": "Full Stack",
+      "image": "https://via.placeholder.com/300x180?text=Full+Stack"
+    },
+    {
+      "id": "105",
+      "title": "DevOps Essentials",
+      "description": "Learn CI/CD pipelines, Docker, Kubernetes, and cloud deployment basics.",
+      "instructor": "Preran Sir",
+      "duration": "6 months",
+      "price": 3000,
+      "category": "DevOps",
+      "image": "https://via.placeholder.com/300x180?text=DevOps"
+    },
+    {
+      "id": "106",
+      "title": "React Hooks in Depth",
+      "description": "Master React hooks, context, and custom hook patterns.",
+      "instructor": "Akshay Sir",
+      "duration": "4 weeks",
+      "price": 4999,
+      "category": "Frontend",
+      "image": "https://via.placeholder.com/300x180?text=React+Hooks"
+    },
+    {
+      "id": "107",
+      "title": "Node.js & Express",
+      "description": "Backend development using Node.js, Express, and RESTful APIs.",
+      "instructor": "Nisha Verma",
+      "duration": "6 weeks",
+      "price": 1999,
+      "category": "Backend",
+      "image": "https://via.placeholder.com/300x180?text=Node+Express"
+    },
+    {
+      "id": "108",
+      "title": "Python for Data Science",
+      "description": "Learn Python, pandas, NumPy, and basic data analysis techniques.",
+      "instructor": "Saurabh Singh",
+      "duration": "8 weeks",
+      "price": 2999,
+      "category": "Data Science",
+      "image": "https://via.placeholder.com/300x180?text=Python+Data+Science"
+    },
+    {
+      "id": "109",
+      "title": "UI/UX Design Fundamentals",
+      "description": "Learn the basics of UI/UX, wireframing, prototyping, and design tools.",
+      "instructor": "Priya Sharma",
+      "duration": "5 weeks",
+      "price": 2499,
+      "category": "Design",
+      "image": "https://via.placeholder.com/300x180?text=UI+UX+Design"
+    },
+    {
+      "id": "110",
+      "title": "Machine Learning with Python",
+      "description": "Introduction to ML algorithms, scikit-learn, and model evaluation.",
+      "instructor": "Rohit Mehta",
+      "duration": "10 weeks",
+      "price": 4999,
+      "category": "AI & ML",
+      "image": "https://via.placeholder.com/300x180?text=ML+Python"
+    }
+  ],
+  "cart": []
+}
